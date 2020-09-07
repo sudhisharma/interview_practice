@@ -17,7 +17,7 @@ def search_value(sequence,value):
 
 print(search_value(list1,10))
 
-
+########################## Using inbult function ##################################
 def using_inbuild(sequence,value):
     for i,j in enumerate(sequence):
         if j == value:
